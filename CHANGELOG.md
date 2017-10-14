@@ -5,6 +5,8 @@ project adheres to [Semantic Versioning](http://semver.org).
 
 ## Unreleased
 
+## 0.3.0 - 2017-10-14
+
 ### Added
 
   - Application template, style and main script.
