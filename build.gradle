@@ -2,8 +2,9 @@ defaultTasks "wrapper", "watch", "dependencies", "build", "test"
 
 def aptPackages = ["libspock-java"]
 def path = System.getProperty("user.dir")
-def srcDir = "${path}/src"
+def srcDir = "${path}/docs"
 def testDir = "${path}/test"
+def buildDir = srcDir
 
 task wrapper(type: Wrapper) {
   description "Creates the project wrapper."
