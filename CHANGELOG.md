@@ -5,6 +5,12 @@ project adheres to [Semantic Versioning](http://semver.org).
 
 ## Unreleased
 
+## 0.4.0 - 2017-10-21
+
+### Changed
+
+  - Source folder to docs for Github pages.
+
 ## 0.3.0 - 2017-10-14
 
 ### Added
